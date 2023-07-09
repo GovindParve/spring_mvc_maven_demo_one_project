@@ -1,0 +1,26 @@
+package springmvcexample;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.web.servlet.HandlerInterceptor;
+import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
+
+//public class MyIntercepteor implements HandlerInterceptor 
+public class MyIntercepteor extends HandlerInterceptorAdapter {
+
+	@Override
+	public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler)
+			throws Exception {
+		
+		System.out.println("This is prehandler...");
+		
+		return true;
+		
+		// TODO Auto-generated method stub
+		//return super.preHandle(request, response, handler);
+	}
+	
+	
+
+}

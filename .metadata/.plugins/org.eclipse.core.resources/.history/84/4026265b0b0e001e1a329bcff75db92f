@@ -1,0 +1,8 @@
+package springmvcexample;
+
+@Controlle
+public class HomeController {
+	
+	
+
+}

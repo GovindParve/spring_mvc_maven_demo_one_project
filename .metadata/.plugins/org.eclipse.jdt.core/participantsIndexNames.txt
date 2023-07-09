@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Eclipse Workspace Container\Spring Projects Workspace Container\Spring MVC Maven Example\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\631493561.index
+\springmvcexample\src\main\java
+D:\Eclipse Workspace Container\Spring Projects Workspace Container\Spring MVC Maven Example\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\310965182.index
+\springmvcexample\src\main\resources

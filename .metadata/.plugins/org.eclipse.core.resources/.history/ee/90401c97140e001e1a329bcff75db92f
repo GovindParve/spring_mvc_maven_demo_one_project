@@ -1,0 +1,11 @@
+package springmvcexample;
+
+import org.springframework.web.servlet.HandlerInterceptor;
+import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
+
+//public class MyIntercepteor implements HandlerInterceptor 
+public class MyIntercepteor extends HandlerInterceptorAdapter {
+	
+	
+
+}
